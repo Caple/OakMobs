@@ -1,0 +1,4 @@
+name: OakMobs
+main: com.ignoreourgirth.gary.oakmobs.OakMobs
+version: 1.0
+depend: [OakCoreLib]
